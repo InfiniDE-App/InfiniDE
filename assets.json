@@ -1,10 +1,10 @@
 {
  "assets": [
    {
-     "name" = "Android.jar",
-     "url" = "https://download1638.mediafire.com/mqeyffodqmpg/1t86z9l2uo6yrnh/android.jar.zip",
-     "size" = "6.92 MB",
-     "description" = "Used To Compile Java"
+     "name" : "Android.jar",
+     "url" : "https://download1638.mediafire.com/mqeyffodqmpg/1t86z9l2uo6yrnh/android.jar.zip",
+     "size" : "6.92 MB",
+     "description" : "Used To Compile Java"
     }
   ]
 }
