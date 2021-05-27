@@ -6,11 +6,5 @@
      "size" : "6.92 MB",
      "description" : "Used To Compile Java"
     }
-    { 
-      "name" : "Rt.jar",
-      "url" : "https://download1488.mediafire.com/blx5hwcut2xg/j2ovsxvvxett85t/jdk.zip", 
-      "size" : "21.03 MB",
-      "description" : "Used To Convert Class to Dex"
-    }
   ]
 }
